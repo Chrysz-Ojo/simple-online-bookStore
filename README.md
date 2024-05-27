@@ -1,13 +1,12 @@
-# simple-online-bookStore
-Its a RESTful API for a simple online bookstore
-
 # Simple Online Bookstore
+
+Its a RESTful API for a simple online bookstore
 
 ## Setup Instructions
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
+    git clone <https://github.com/Chrysz-Ojo/simple-online-bookStore>
     cd simple-online-bookstore
     ```
 
